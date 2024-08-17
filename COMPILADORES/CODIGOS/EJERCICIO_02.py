@@ -2,7 +2,7 @@
 # Matricula: A221639
 # Fecha: 16 de Agosto del 2024
 
-# Analizador lexico para codigo de programacion, 
+# Analizador lexico en python, 
 # se incluye mas de 60 tokens, 30 palabras reservadas,
 # interfaz grafica con botones y tablas
 
